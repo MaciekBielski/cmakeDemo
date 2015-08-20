@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++   -O3 -DNDEBUG    CMakeFiles/students.dir/group.cpp.o CMakeFiles/students.dir/student.cpp.o CMakeFiles/students.dir/main.cpp.o  -o ../../../bin/students -rdynamic -lm 

@@ -1,0 +1,4 @@
+let &makeprg="make -C build/release"
+nmap <F9> :!cmake -DCMAKE_BUILD_TYPE=Release -H. -Bbuild/release<CR>
+nmap <F10> :make\|redraw!\|cc<CR>
+nmap <F12> :!./bin/tester<CR>

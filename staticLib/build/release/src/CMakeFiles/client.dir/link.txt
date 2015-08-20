@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc  -O3 -DNDEBUG    CMakeFiles/client.dir/client.c.o  -o ../../../bin/client -rdynamic -Wl,-Bstatic -L/home/maciek/Projects/cmakeDemo/staticLib/lib -lserver -Wl,-Bdynamic 

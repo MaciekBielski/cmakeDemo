@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maciek/Projects/cmakeDemo/exe/src/group.cpp
+group.hpp
+/home/maciek/Projects/cmakeDemo/exe/src/group.hpp
+
+/home/maciek/Projects/cmakeDemo/exe/src/group.hpp
+iostream
+-
+vector
+-
+math.h
+-
+student.hpp
+/home/maciek/Projects/cmakeDemo/exe/src/student.hpp
+
+/home/maciek/Projects/cmakeDemo/exe/src/main.cpp
+student.hpp
+/home/maciek/Projects/cmakeDemo/exe/src/student.hpp
+group.hpp
+/home/maciek/Projects/cmakeDemo/exe/src/group.hpp
+
+/home/maciek/Projects/cmakeDemo/exe/src/student.cpp
+student.hpp
+/home/maciek/Projects/cmakeDemo/exe/src/student.hpp
+
+/home/maciek/Projects/cmakeDemo/exe/src/student.hpp
+iostream
+-
+

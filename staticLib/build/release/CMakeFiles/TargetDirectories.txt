@@ -1,0 +1,2 @@
+/home/maciek/Projects/cmakeDemo/staticLib/build/release/src/CMakeFiles/client.dir
+/home/maciek/Projects/cmakeDemo/staticLib/build/release/src/CMakeFiles/server.dir

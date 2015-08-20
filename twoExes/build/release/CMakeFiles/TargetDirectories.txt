@@ -1,0 +1,2 @@
+/home/maciek/Projects/cmakeDemo/twoExes/build/release/src/CMakeFiles/hello.dir
+/home/maciek/Projects/cmakeDemo/twoExes/build/release/src/CMakeFiles/students.dir
